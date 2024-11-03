@@ -6,4 +6,4 @@ Supports basic operations like addition, subtraction, multiplication, and divisi
 Simple, intuitive design for a smooth user experience.
 Instant results for fast and efficient calculations.
 
-Perfect for anyone looking to understand core programming logic and UI design, QuickCalc is a great beginner project to build essential coding skills.  
+Perfect for anyone looking to understand core programming logic and UI design, Number Ninja is a great beginner project to build essential coding skills.  
